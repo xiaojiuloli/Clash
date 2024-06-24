@@ -1,10 +1,11 @@
 # 本地局域网
-DOMAIN-SUFFIX,asusrouter.com
-IP-CIDR,0.0.0.0/8
-IP-CIDR,192.0.0.0/24
-IP-CIDR,192.168.0.0/16
-IP-CIDR,198.18.0.0/15
-IP-CIDR6,::/127
-IP-CIDR6,fc00::/7
-IP-CIDR6,fe80::/10
-IP-CIDR6,ff00::/8
+payload:
+  - DOMAIN-SUFFIX,xiaojiuloli.comDOMAIN-SUFFIX,asusrouter.com
+  - IP-CIDR,0.0.0.0/8
+  - IP-CIDR,192.0.0.0/24
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,198.18.0.0/15
+  - IP-CIDR6,::/127
+  - IP-CIDR6,fc00::/7
+  - IP-CIDR6,fe80::/10
+  - IP-CIDR6,ff00::/8
