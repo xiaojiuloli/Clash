@@ -1,6 +1,7 @@
 # 本地局域网
 payload:
-  - DOMAIN-SUFFIX,xiaojiuloli.comDOMAIN-SUFFIX,asusrouter.com
+  - DOMAIN-SUFFIX,xiaojiuloli.com
+  - DOMAIN-SUFFIX,asusrouter.com
   - IP-CIDR,0.0.0.0/8
   - IP-CIDR,192.0.0.0/24
   - IP-CIDR,192.168.0.0/16
