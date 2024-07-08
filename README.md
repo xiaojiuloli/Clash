@@ -1,4 +1,4 @@
-# 分流规则
+# Clash分流规则
 自用手搓规则，不定期编写，只适合本人使用
 
 适用于OpenClash（软路由），Clash-Verge-rev（PC）
